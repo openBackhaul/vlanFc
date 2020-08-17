@@ -7,18 +7,18 @@ Technology specific amendment to the ForwardingConstruct class for C-VLAN or S-V
 
 ### UML
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- [VlanFc_1.0.0-tsp.190830.1720](./VlanFc_1.0.0-tsp.190830.1720.zip)
+- [VlanFc_1.0.0-tsp.200817.2030](./VlanFc_1.0.0-tsp.200817.2030.zip)
 
 ### Overview 
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- [VlanFc_1.0.0-tsp.190830.1720+overview.1](./VlanFc_1.0.0-tsp.190830.1720+overview.1.png)
+- [VlanFc_1.0.0-tsp.200817.2030+overview.1](./VlanFc_1.0.0-tsp.200817.2030+overview.1.png)
 
 ### List of Classes
 - to be provided
 
 ### GenDoc Export
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- [VlanFc_1.0.0-tsp.190830.1720+gendoc.1](./VlanFc_1.0.0-tsp.190830.1720+gendoc.1.docx)
+- [VlanFc_1.0.0-tsp.200817.2030+gendoc.1](./VlanFc_1.0.0-tsp.200817.2030+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
