@@ -1,45 +1,41 @@
 # vlanFc
-Technology specific amendment to the ForwardingConstruct class for C-VLAN or S-VLAN Bridges according to 802.1Q.
+- Technology specific amendment to the ForwardingConstruct class for C-VLAN or S-VLAN Bridges according to 802.1Q.
+- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 - 1.0.0-tsp.d.t : Use case driven model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 - [VlanFc_1.0.0-tsp.200817.2030](./VlanFc_1.0.0-tsp.200817.2030.zip)
 
 ### Overview 
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 - [VlanFc_1.0.0-tsp.200817.2030+overview.1](./VlanFc_1.0.0-tsp.200817.2030+overview.1.png)
 
-### List of Classes
-- to be provided
-
 ### GenDoc Export
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 - [VlanFc_1.0.0-tsp.200817.2030+gendoc.1](./VlanFc_1.0.0-tsp.200817.2030+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
 
 ### YANG File
-- to be provided
+- [VlanFc_1.0.0-tsp.200817.2030+yang.1](./VlanFc_1.0.0-tsp.200817.2030+yang.1.zip)
+
+### JSON Schema
+- to be provided 
 
 ### Interface Simulator
-- not planned 
+- to be provided 
 
 ### Interface Validator
-- not planned
+- to be provided 
 
 ### Publication
-- not planned
+- Candidate for ONF TR-532 v2.0
 
-### Model Classification
-- Trial
+### Aspired Model Classification
+- Live Network
 
 ### Open Issue List
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 - [vlanFc/issues](../../issues)
 
 ### Comments
