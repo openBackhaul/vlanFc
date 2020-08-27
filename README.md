@@ -18,7 +18,7 @@
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
 
 ### YANG File
-- [VlanFc_1.0.0-tsp.200826.0740c+yang.1](./VlanFc_1.0.0-tsp.200826.0740b+yang.1.zip)
+- [VlanFc_1.0.0-tsp.200826.0740c+yang.1](./VlanFc_1.0.0-tsp.200826.0740c+yang.1.zip)
 
 ### JSON Schema
 - to be provided 
