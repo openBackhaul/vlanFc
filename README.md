@@ -6,19 +6,19 @@
 - 1.0.0-tsp.d.t : Use case driven model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
-- [VlanFc_1.0.0-tsp.200817.2030](./VlanFc_1.0.0-tsp.200817.2030.zip)
+- [VlanFc_1.0.0-tsp.200826.0740b](./VlanFc_1.0.0-tsp.200826.0740b.zip)
 
 ### Overview 
-- [VlanFc_1.0.0-tsp.200817.2030+overview.1](./VlanFc_1.0.0-tsp.200817.2030+overview.1.png)
+- [VlanFc_1.0.0-tsp.200826.0740+overview.1](./VlanFc_1.0.0-tsp.200826.0740+overview.1.png)
 
 ### GenDoc Export
-- [VlanFc_1.0.0-tsp.200817.2030+gendoc.1](./VlanFc_1.0.0-tsp.200817.2030+gendoc.1.docx)
+- [VlanFc_1.0.0-tsp.200826.0740+gendoc.1](./VlanFc_1.0.0-tsp.200826.0740+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
 
 ### YANG File
-- [VlanFc_1.0.0-tsp.200817.2030+yang.1](./VlanFc_1.0.0-tsp.200817.2030+yang.1.zip)
+- [VlanFc_1.0.0-tsp.200826.0740b+yang.1](./VlanFc_1.0.0-tsp.200826.0740b+yang.1.zip)
 
 ### JSON Schema
 - to be provided 
