@@ -18,7 +18,8 @@
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
 
 ### YANG File
-- [VlanFc_1.0.0-tsp.200826.0740c+yang.1](./VlanFc_1.0.0-tsp.200826.0740c+yang.1.zip)
+- [VlanFc_1.0.0-tsp.200826.0740c+yang.1](./VlanFc_1.0.0-tsp.200826.0740c+yang.1.zip) fixes [Issue#1](https://github.com/openBackhaul/vlanFc/issues/1)
+- [VlanFc_1.0.0-tsp.200826.0740c+yang.2](./VlanFc_1.0.0-tsp.200826.0740c+yang.2.zip) fixes [Issue#2](https://github.com/openBackhaul/vlanFc/issues/2)
 
 ### JSON Schema
 - to be provided 
