@@ -8,14 +8,17 @@
 ### UML
 - [VlanFc_1.0.0-tsp.200826.0740b](./VlanFc_1.0.0-tsp.200826.0740b.zip)
 - [VlanFc_1.0.0-tsp.210105.1630a](./VlanFc_1.0.0-tsp.210105.1630a.zip)
+- [VlanFc_1.0.0-tsp.210119.1600](./VlanFc_1.0.0-tsp.210119.1600.zip) (incl. RPCs)
 
 ### Overview 
 - [VlanFc_1.0.0-tsp.200826.0740+overview.1](./VlanFc_1.0.0-tsp.200826.0740+overview.1.png)
 - [VlanFc_1.0.0-tsp.210105.1630+overview.1](./VlanFc_1.0.0-tsp.210105.1630+overview.1.png)
+- [VlanFc_1.0.0-tsp.210119.1600+overview.1](./VlanFc_1.0.0-tsp.210119.1600+overview.1.png)
 
 ### GenDoc Export
 - [VlanFc_1.0.0-tsp.200826.0740+gendoc.1](./VlanFc_1.0.0-tsp.200826.0740+gendoc.1.docx)
 - [VlanFc_1.0.0-tsp.210105.1630+gendoc.1](./VlanFc_1.0.0-tsp.210105.1630+gendoc.1.docx)
+- [VlanFc_1.0.0-tsp.210119.1600+gendoc.1](./VlanFc_1.0.0-tsp.210119.1600+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
