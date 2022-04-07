@@ -6,19 +6,23 @@
 - 1.0.0-tsp.d.t : Use case driven model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
-- [VlanFc_1.0.0-tsp.210207.0850](./VlanFc_1.0.0-tsp.210207.0850.zip) (incl. RPCs)
+- [VlanFc_1.0.0-tsp.210207.0850](./VlanFc_1.0.0-tsp.210207.0850.zip) (Deprecated)
+- [VlanFc_1.0.0-tsp.220407.1950](./VlanFc_1.0.0-tsp.220407.1950.zip)
 
 ### Overview 
-- [VlanFc_1.0.0-tsp.210207.0850+overview.1](./VlanFc_1.0.0-tsp.210207.0850+overview.1.png)
+- [VlanFc_1.0.0-tsp.210207.0850+overview.1](./VlanFc_1.0.0-tsp.210207.0850+overview.1.png) (Deprecated)
+- [VlanFc_1.0.0-tsp.220407.1950+overview.1](./VlanFc_1.0.0-tsp.220407.1950+overview.1.png)
 
 ### GenDoc Export
-- [VlanFc_1.0.0-tsp.210207.0850+gendoc.1](./VlanFc_1.0.0-tsp.210207.0850+gendoc.1.docx)
+- [VlanFc_1.0.0-tsp.210207.0850+gendoc.1](./VlanFc_1.0.0-tsp.210207.0850+gendoc.1.docx) (Deprecated)
+- [VlanFc_1.0.0-tsp.220407.1950+gendoc.1](./VlanFc_1.0.0-tsp.220407.1950+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_VLAN_LAYER
 
 ### YANG File
-- [VlanFc_1.0.0-tsp.210207.0850+yang.1](./VlanFc_1.0.0-tsp.210207.0850+yang.1.zip)
+- [VlanFc_1.0.0-tsp.210207.0850+yang.1](./VlanFc_1.0.0-tsp.210207.0850+yang.1.zip) (Deprecated)
+- [VlanFc_1.0.0-tsp.220407.1950+yang.1](./VlanFc_1.0.0-tsp.220407.1950+yang.1.zip)
 
 ### JSON Schema
 - to be provided 
